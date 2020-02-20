@@ -46,7 +46,7 @@ In what follows, the topics covered in each of the lessons will be indexed.
 - Recursive vs Iterative look over: classical examples -Fibonazi series...-
 
 ### Day Four : Numpy and MatplotLib
-- numpy arrays and matrixes
+- numpy arrays and matrices
 
 - Array functions: *invert()*, *transpose()*, ...
 
