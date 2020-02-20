@@ -37,7 +37,7 @@ In what follows, the topics covered in each of the lessons will be indexed.
 ### Day Three : Data Structures and Functions
 - *Dictionary* structures: *keys()*, *items()* ...
 
-- Lost comprehension look over
+- List comprehension look over
 
 - *zip()*, *enumerate()* and iteration over structures
 
