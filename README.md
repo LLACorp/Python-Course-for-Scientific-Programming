@@ -21,7 +21,7 @@ In what follows, the topics covered in each of the lessons will be indexed.
 
 - *if, elif, else* statements and the logical operators (==, !=, <, >=, ...)
 
-- Propose as homework the creation of a written user-interface menu
+- *list* structures: usage, slicing, indexing, appending...
 
 ### Day Two : The Loops
 - Retake the conditional statements  
@@ -32,7 +32,6 @@ In what follows, the topics covered in each of the lessons will be indexed.
 
 - *break* and *continue* statements for loops
 
-- *list* structures: usage, slicing, indexing, appending, iterating...
 
 ### Day Three : Data Structures and Functions
 - *Dictionary* structures: *keys()*, *items()* ...
